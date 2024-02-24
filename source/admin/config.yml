@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: https://github.com/An0nym0u5xy/Blog/ # repo name1
+  repo: https://github.com/An0nym0u5xy/Blog.git # repo name1
   branch: master # Branch to update (optional; defaults to master)
 
 site_url: http://blog.ctgfw.top/
