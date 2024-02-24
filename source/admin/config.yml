@@ -1,10 +1,10 @@
 backend:
   name: github
-  repo: # repo name
-  branch: main # Branch to update (optional; defaults to master)
+  repo: Blog# repo name
+  branch: master # Branch to update (optional; defaults to master)
 
-site_url: https://shwst.one
-display_url: https://shwst.one
+site_url: http://blog.ctgfw.top/
+display_url: http://blog.ctgfw.top/
 # logo_url: https://images.shwst.one/
 locale: 'cn'
 
