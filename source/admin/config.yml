@@ -3,8 +3,8 @@ backend:
   repo: https://github.com/An0nym0u5xy/Blog.git # repo name1
   branch: master # Branch to update (optional; defaults to master)
 
-site_url: http://blog.ctgfw.top/
-display_url: http://blog.ctgfw.top/
+site_url: https://bloglxy.netlify.app/
+display_url: https://bloglxy.netlify.app/
 # logo_url: https://images.shwst.one/
 locale: 'cn'
 
